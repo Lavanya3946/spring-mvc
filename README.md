@@ -1,1 +1,1 @@
-# sprin-mvc
+# spring-mvc
